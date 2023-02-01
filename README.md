@@ -1,4 +1,4 @@
-# SQL---case-studies
+# SQL-case_studies
 
 ## 1. Case 1- Danny's Dinner
 #### Danny loves Japanese food so he decides to opens up a little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
